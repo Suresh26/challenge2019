@@ -8,3 +8,5 @@ go run Qube partners.csv input.csv capacities.csv
 
 
 If you use "go run main.go" command it automatically take hardcoded file path
+
+Then 2 output csv files will created
